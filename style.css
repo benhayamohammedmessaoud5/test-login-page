@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+body{
+  background-image: url('SeekPng.com_bg-png_981542 (1).png');
+  font-family: roboto;
+ 
+}
+.first h2{
+text-align: center;
+padding: 150px;
+font-weight: 800;
+font-size: 64px;
+font-family: 'Roboto', sans-serif;
+
+}
+.first img{
+  position: absolute;
+  width: 74px;
+  height: 76px;
+  left: 448px;
+  top: 210px;
+}
+.inpute-mail input{
+  position: absolute;
+  width: 479px;
+  height: 64px;
+  left: 400px;
+  top: 318px;
+  
+  background: #D5F7E6;
+  border: 4px solid #000000;
+  box-sizing: border-box;
+  border-radius: 32px;
+  font-weight: 800;
+
+}
+.inpute-pass input{
+position: absolute;
+width: 479px;
+height: 64px;
+left: 400px;
+top: 433px;
+
+background: #D5F7E6;
+border: 4px solid #000000;
+box-sizing: border-box;
+border-radius: 32px;
+font-weight: 800;
+
+}
+.sub a button{
+  
+position: absolute;
+width: 242px;
+height: 55px;
+left: 529px;
+top: 548px;
+
+background: #47B789;
+border: 4px solid #000000;
+box-sizing: border-box;
+border-radius: 32px;
+font-weight: 800;
+
+}
+.sub a button:hover{
+   
+    background-color:#8aa4ec;
+    transition: 0.7s;
+}
